@@ -1,48 +1,19 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) IOS Development 101
 
-Welcome to General Assembly's iOS Development 101. This repository contains all of the materials supplied for this workshop.
+Welcome to General Assembly's iOS Development 101. We are building a global community of lifelong learners who are excited about developing mobile applications to solve real world problems, and we're really excited for you to join us!
 
-## Value Proposition
+## In This Repository
 
-<!--  Taken from Confluence -->
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-#### Students Will Learn How To:
-
-<!-- a bulleted list of learning goals from Confluence -->
-
-- Explain relevant history and trends in iOS development.
-- Identify key skills leveraged by IOS developers.
-- Survey the common tools used within the iOS ecosystem.
-- Apply key concepts and skills to build a basic iOS application.
-
----
-
-Included in this repository:
-
-1. [**Onboarding Materials**](./curriculum/01-onboarding) - Background context & instructions for how to make use of our materials.
-
-2. [**Teaching Materials**](./curriculum/02-materials) - Lesson plan, activities & assessment, deck, and handout.
-
-<!-- 3. [**Contributing Guidelines**](contributing-guidelines.md) - information about how to submit materials you create, adapt, or fix back to the global General Assembly team -->
-
+We provide a number of *required* and *optional* resources to better prepare you for the course. Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running.
 
 ## To Get Started
 
-If this is your first time teaching this workshop, welcome!! Please take *15 minutes* to read through the following onboarding materials to help get an understanding of your responsibilities as an instructor and gain some background context on this course.
-
 Document                            | Description
 ----------------------------------- | ------------------------------------------
-[Roadmap](./curriculum//01-onboarding/01-roadmap.md) | Prerequisites and suggested follow-up plan
-[Resources](./curriculum//01-onboarding/02-tools-policies.md) | Description of tools used and relevant policies for this workshop
+[1. Complete our Onboarding Materials](./curriculum//01-onboarding/01-roadmap.md) | Required Pre-Course Tutorials & Assessments
+[2. Review our Tech Policies](./curriculum//01-onboarding/02-tools-policies.md) | GA's Technology Policy for this course
 
-
-## Contributing
-
-We encourage instructors to fork this repository directly. We hope you'll suggest improvements by submitting issues or pull requests as needed!
-
-Please check out our [contributing guidelines](contributing.md) for more details.
+Meanwhile, if you have questions in the meantime (or just want to say hi!), feel free to reach out to your admissions or course producer! You can also join our `#iosi-onboarding` channel on Slack to get help from and share tips with your peers!
 
 
 ## Licensing
