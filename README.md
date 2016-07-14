@@ -1,6 +1,6 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) IOS Development 101
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) iOS Development Immersive
 
-Welcome to General Assembly's iOS Development 101. We are building a global community of lifelong learners who are excited about developing mobile applications to solve real world problems, and we're really excited for you to join us!
+Welcome to General Assembly's iOS Development Immersive. We are building a global community of lifelong learners who are excited about developing mobile applications to solve real world problems, and we're really excited for you to join us!
 
 ## In This Repository
 
