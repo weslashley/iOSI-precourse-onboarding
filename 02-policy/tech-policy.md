@@ -1,14 +1,13 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Technology Policy
 
-This immersive course teaches students about iOS mobile development. This field is constantly evolving, and it is impossible to introduce every tool.
+Our immersive course teaches students about iOS mobile development. This field is constantly evolving, and it would be impossible to cover every tool in one course.
 
 Instead, General Assembly provides a core set of objectives for this course, along with guidelines for how to ensure students reach these objectives. As an instructor, you have the opportunity and responsibility to adapt these recommendations to your local context and modify/expand on any of these tools as you see fit.
-
 
 ## Required Tools for Students
 
 - A Mac laptop (*required*) and an iOS device for testing (*optional*).
-- Upgrade your OS to the latest version, as needed.
+- Upgrade laptop OS to the latest version, as needed.
 - Download and install the latest version of [Xcode](https://developer.apple.com/xcode/).
 
 
@@ -26,11 +25,8 @@ General Assembly introduces students to concepts using the environment, tools, a
 
 Due to the necessary tools used in the iOS environment, **Macs are required** for this course. We strongly suggest that students bring laptops with screens of *at least 13-inches*. Having an 11-inch (or smaller) screen has been shown to adversely affect student performance.
 
-
 #### Operating Systems Policy
 
 **Mac:** Student laptops should be using OS X 10.8.5 or higher, up to 10.11.4 (El Capitan). Students should update their OS before starting the course.
 
 Note: *This rules out the use of some older MacBooks*
-
-
