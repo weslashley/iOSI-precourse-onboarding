@@ -10,8 +10,8 @@ We provide a number of *required* and *optional* resources to better prepare you
 
 Document                            | Description
 ----------------------------------- | ------------------------------------------
-[1. Complete our Onboarding Materials](./curriculum//01-onboarding/01-roadmap.md) | Required Pre-Course Tutorials & Assessments
-[2. Review our Tech Policies](./curriculum//01-onboarding/02-tools-policies.md) | GA's Technology Policy for this course
+[1. Complete our Onboarding Materials](./01-task/) | Required Pre-Course Tutorials & Assessments
+[2. Review our Tech Policies](./02-policy/) | GA's Technology Policy for this course
 
 Meanwhile, if you have questions in the meantime (or just want to say hi!), feel free to reach out to your admissions or course producer! You can also join our `#iosi-onboarding` channel on Slack to get help from and share tips with your peers!
 
