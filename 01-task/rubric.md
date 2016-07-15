@@ -17,7 +17,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 **Does Not Meet**: Did you meet < 50% of the requirements?
 
 #### Performance Evaluation
-> Mark boxes with an 'X'
+> Instructors: To grade, simply mark boxes with an 'X' and then add any relevant notes below.
 
 | Requirements | Does Not Meet Expectations (0) | Partially Meets Expectations (1) | Fully Meets Expectations (2) |
 |---|---|---|---|
