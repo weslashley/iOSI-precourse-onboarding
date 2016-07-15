@@ -12,6 +12,8 @@ Your pre-course assignment has three parts. Please complete ***all three parts**
 ```git clone https://github.com/generalassembly-studio/iOSI-course-materials.git```
 * This will clone our pre-course repository onto your computer! Just make sure you've navigated to your local "GA-iOS" directory in the command line before running the `clone` command, or else you won't know where your local copy might end up!
 
+* Note: Technically, you can accomplish all this using the Github website & desktop app, but we recommend that you use the command line instead.
+
 ## Pt. 2: Complete all of the `TODOs` in the [included Playground file](./PreWork.playground/Contents.swift)
 * Open `PreWork.playground` in Xcode and use your new Swift knowledge to complete all of the `TODO` exercises. 
 * When you're finished, uncomment the test code at the bottom to check if your answers are valid!
