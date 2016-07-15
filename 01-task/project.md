@@ -3,6 +3,7 @@
 Your pre-course assignment has three parts. Please complete ***all three parts*** before the first day of class:
 
 ## Pt. 1: Get the repo!
+* Fork this pre-course repository (in github, you can do this using the button on the top right that says "fork")
 * Open the terminal! 
 * Using the command line, navigate into your `Documents` directory. 
 * Create a new folder called `Repositories` and then navigate into that. 
@@ -29,13 +30,11 @@ Your pre-course assignment has three parts. Please complete ***all three parts**
 
 Use your newfound terminal & git knowledge to submit your work!
 
-1. Navigate to remote X
-2. Create branch Y
-3. Create pull request from local copy Z
+1. Push your local edits up to your remote fork. This will copy your local files to your online github fork.
+2. [Use the following form to submit a link to your fork so we can review your materials!](http://goo.gl/forms/onJ8DOil8ftWYySJ2)
 
-* Make sure to title your saved playground and app files with your name!
+* Note: *Make sure to re-title your saved playground and app files with your full name.*
 
-> Note: Instructors should ask students to either check in their pre-course work to their own fork or submit a pull request to the course directory.
 
 ### Feedback
 
