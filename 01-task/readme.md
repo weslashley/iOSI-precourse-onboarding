@@ -55,35 +55,35 @@ Student laptops should be using OS X 10.10 or higher, ideally 10.11 (El Capitan)
 Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like you to complete before starting the course. Remember to work through *all of the required material* at a minimum, although we highly recommend completing the optional materials as well, if you have the time!
 
 - [ ] Master the Command Line
- * **Required**: [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
- * *Optional*: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
+	* **Required**: [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
+	* *Optional*: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
 
 - [ ] Control Your Versions
- * **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
- * *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
+	* **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
+	* *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
 -  [ ] Practice the Fundamentals
- * **Required**: [Practice these Computer Science basics.](https://www.codecademy.com/courses/programming-intro/0/1)
- * *Optional*: [If you have time, review some of the materials from Stanford's famous CS101 course. Specifically, look at concepts in weeks 1, 2, 4, and 6!](http://web.stanford.edu/class/cs101/)
+	* **Required**: [Practice these Computer Science basics.](https://www.codecademy.com/courses/programming-intro/0/1)
+	* *Optional*: [If you have time, review some of the materials from Stanford's famous CS101 course. Specifically, look at concepts in weeks 1, 2, 4, and 6!](http://web.stanford.edu/class/cs101/)
 
 -  [ ] Experiment with Xcode
- * **Required**: [Work through Apple's online lesson on Xcode & Swift Fundamentals.](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html)
- * *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide.](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
- * *Optional*: [It never hurts to practice. Try this sample Xcode project from our favorite "We <3 Swift!"](https://www.weheartswift.com/getting-started-with-ios-programming/)
+	* **Required**: [Work through Apple's online lesson on Xcode & Swift Fundamentals.](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html)
+	* *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide.](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
+	* *Optional*: [It never hurts to practice. Try this sample Xcode project from our favorite "We <3 Swift!"](https://www.weheartswift.com/getting-started-with-ios-programming/)
 
 - [ ] Mobile Networks 101
- * **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
- * *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
+	* **Required**: [It's important to understand how the internet works. Complete this module as a refresher.](https://www.khanacademy.org/computing/computer-science/internet-intro)
+	* *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
 
 - [ ] Apple & iOS
-* **Optional**: [Take a quick peek at Apple's Human Interface Design Principles.](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
-* **Optional**: [Apple's guide explains how iOS technology stacks together.](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
+	* **Optional**: [Take a quick peek at Apple's Human Interface Design Principles.](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
+	* **Optional**: [Apple's guide explains how iOS technology stacks together.](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
 
 
 <a name="projects"></a>
 ## Projects
 
-- [ ] [Next, click here for instructions on how to complete our **required** pre-course project!](./project.md).
+[ ] [Next, click here for instructions on how to complete our **required** pre-course project!](./project.md).
 
 <a name="resources"></a>
 ## Optional Resources
