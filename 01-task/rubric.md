@@ -3,13 +3,13 @@
 
 Your pre-course project will be assessed using the following standards, as defined by the course syllabus and the iOS Immersive workflow:
 
-- **Programming Fundamentals**
+- **iOS Programming Fundamentals**
 
 Acceptable performance for this standard is based on how well you've applied specific learning goals within your deliverable. To review the full list of standards, see our course syllabus.
 
 ---
 
-## COURSE STANDARD
+## iOS Programming Fundamentals
 **Fully Meets**: Did you meet 90%+ of the requirements?
 
 **Partially Meets**: Did you meet 50%+ of the requirements?
