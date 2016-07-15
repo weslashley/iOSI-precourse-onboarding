@@ -34,6 +34,7 @@ Next, let's review the technology required and do some light installations. For 
 
 * [ ] **Required**: Make sure you have a Mac laptop, with an updated OS.
 * [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
+* [ ] **Required**: [Download](https://git-scm.com/downloads) and [configure Git](https://help.github.com/articles/set-up-git/).
 * [ ] *Optional*: Install a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
 * [ ] *Optional*: If you have a secondary iOS device (e.g. iphone or ipad), bring it to class so you can use it to test your apps!
 
