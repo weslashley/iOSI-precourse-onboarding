@@ -1,11 +1,11 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) PROJECT RUBRIC
 **Pre-Course Project | iOS Immersive** 	 						
 
-Your project will be assessed using the following standards, as defined by the course syllabus and the iOS Immersive workflow:
+Your pre-course project will be assessed using the following standards, as defined by the course syllabus and the iOS Immersive workflow:
 
-- **Course Standard**
+- **Programming Fundamentals**
 
-Acceptable performance for these standards is based on how well you've applied specific learning goals within your deliverable. To review the full list of standards, see our course syllabus.
+Acceptable performance for this standard is based on how well you've applied specific learning goals within your deliverable. To review the full list of standards, see our course syllabus.
 
 ---
 
