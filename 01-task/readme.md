@@ -81,7 +81,7 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 <a name="projects"></a>
 ## Projects
 
-- [ ] [Next, click here for instructions on how to complete our **required** pre-course project!](./pre-course-project.md).
+- [ ] [Next, click here for instructions on how to complete our **required** pre-course project!](./project.md).
 
 <a name="resources"></a>
 ## Optional Resources
