@@ -42,11 +42,10 @@ Use your newfound terminal & git knowledge to submit your work!
 * **Playground File**: Students should use the inline error-checking and test code provided (uncomment the code at the bottom of the file) to review their work.
 * **Single View App**: Students should submit their work to their course github repository.
 
-Your instructors will use [the following rubric](./assessment-rubric.md) to score each of your technical requirements using the scale below:
+Your instructors will use [the following rubric](./rubric.md) to score your pre-course project deliverables using the scale below:
 
     Score | Expectations
     ----- | ------------
     **0** | _Incomplete._
     **1** | _Does not meet expectations._
-    **2** | _Meets expectations, good job!_
-    **3** | _Exceeds expectations, you wonderful creature, you!_
+    **2** | _Meets expectations, great job!_
