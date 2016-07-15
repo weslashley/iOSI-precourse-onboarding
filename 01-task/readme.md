@@ -25,7 +25,9 @@ First, you'll need to set up a few accounts, if you haven't already.
 
 * [ ] **Required**: [Create a Github account](https://github.com/join), if you don't already have one.
 * [ ] **Required**: Register for an [Apple ID, if you don't already have one.](https://www.apple.com/support/appleid/create-signin/)
-* [ ] **Required**: Use your Apple ID to [sign up for a paid Apple Developer account.](https://developer.apple.com)
+* [ ] **Optional**: Use your Apple ID to [sign up for a paid Apple Developer account.](https://developer.apple.com)
+
+Note: *Students will need to sign up for a paid Apple Developer account in order to submit apps to the app store. We'll discuss this further in-class!*
 
 <a name="install"></a>
 ## Technology
