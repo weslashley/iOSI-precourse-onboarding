@@ -34,8 +34,8 @@ Next, let's review the technology required and do some light installations. For 
 
 1. [ ] **Required**: Make sure you have a Mac laptop, with an updated OS.
 2. [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
-3. [ ] *Optional*: Bring a secondary iOS device (e.g. iphone or ipad) to class to use when testing your apps!
-4. [ ] *Optional*: Install a text editor like [Atom](https://atom.io) or [Sublime Text 3]((http://www.sublimetext.com).
+3. [ ] *Optional*: Install a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
+4. [ ] *Optional*: If you have a secondary iOS device (e.g. iphone or ipad), bring it to class so you can use it to test your apps!
 
 #### Technology Policy
 
