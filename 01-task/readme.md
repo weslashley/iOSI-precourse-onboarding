@@ -50,7 +50,7 @@ Complete the following modules:
 
 3. [ ] Practice the Fundamentals
  * **Required**: [Play with Swift](https://www.weheartswift.com/getting-started-with-ios-programming/)
- * *Optional*: []()
+ * *Optional*: [Review the basics of Computer Science](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 
 4. [ ] Experiment with Xcode
  * **Required**: [X](Y)
@@ -77,13 +77,13 @@ Bonus: Ray Wenderlich videos: https://www.raywenderlich.com/category/ios
 <a name="projects"></a>
 ## Projects
 
-[Complete all three steps in our pre-course project].
+[Next, click here for instructions on how to complete our **required** pre-course project!](./pre-course-assessment.md).
 
 <a name="resources"></a>
 ## Optional Resources
-Consider the following reading recommendations. These supplements to your learning experience are not required but are strongly encouraged:
+Finally, check out some additional resources! While none of these are required, we highly recommend that you read through them as needed. Remember, this is your learning experience, so make the most of it!
 
- * Get comfortable with [technical documentation](https://docs.python.org/2/tutorial/index.html)
+ * Get comfortable with [technical documentation](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
  * Read through one of GA's [original iOS textbooks!](http://mobbook.generalassemb.ly/index.html)
  * Deep dive into [Git concepts](https://git-scm.com/doc)
  * 
