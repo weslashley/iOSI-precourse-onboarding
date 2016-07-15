@@ -27,7 +27,7 @@ First, you'll need to set up a few accounts, if you haven't already.
 
 * [ ] **Required**: [Create a Github account](https://github.com/join), if you don't already have one.
 * [ ] **Required**: Register for an [Apple ID, if you don't already have one.](https://www.apple.com/support/appleid/create-signin/)
-* [ ] **Optional**: Use your Apple ID to [sign up for a paid Apple Developer account.](https://developer.apple.com)
+* [ ] *Optional*: Use your Apple ID to [sign up for a paid Apple Developer account.](https://developer.apple.com)
 
 Note: *Students will need to sign up for a paid Apple Developer account in order to submit apps to the app store. We'll discuss this further in-class!*
 
@@ -40,7 +40,7 @@ Next, let's review the technology required and do some light installations. For 
 * [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
 * [ ] **Required**: [Download](https://git-scm.com/downloads) and [configure Git](https://help.github.com/articles/set-up-git/).
 * [ ] *Optional*: Install a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
-* [ ] *Optional*: If you have a secondary iOS device (e.g. iphone or ipad), bring it to class so you can use it to test your apps!
+* [ ] *Optional*: If you have a secondary iOS device (e.g. iPhone or iPad), bring it to class so you can use it to test your apps!
 
 #### Technology Policy
 
@@ -93,5 +93,5 @@ Last - but not least, check out some of these awesome additional resources! Whil
 * Listen to ["Developing iOS 9 apps with Swift" from Stanford on iTunes U.](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961)
 * If you want to be an iOS developer, you'll need to [get comfortable with Apple's technical documentation.](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
 * Have a look at [ GA's original iOS textbook! While slightly outdated, there's a lot of great material in here for new programmers.](http://mobbook.generalassemb.ly/index.html)
-* Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "ios apprentice" tutorials.](https://www.raywenderlich.com/category/ios)
+* Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "iOS Apprentice" tutorials.](https://www.raywenderlich.com/category/ios)
 * [Some students have recommended the following textbook as a helpful resource](https://amzn.com/0134390733).
