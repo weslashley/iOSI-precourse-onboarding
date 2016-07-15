@@ -50,11 +50,11 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
 
 1. [ ] Master the Command Line
  * **Required**: [Complete our basic Command Line Overview.](http://generalassembly.github.io/prework/cl/#/)
- * *Optional*: [If you have time, try some bonus practice!](https://www.codecademy.com/learn/learn-the-command-line)
+ * *Optional*: [You know what's important? Practice, practice, practice!](https://www.codecademy.com/learn/learn-the-command-line)
 
 2. [ ] Control Your Versions
  * **Required**: [Complete this entire Git Tutorial.](https://www.codecademy.com/learn/learn-git)
- * *Optional*: [The best way to learn Git is to practice, practice, practice. Here is a fun review of the basics.](https://www.codeschool.com/courses/try-git)
+ * *Optional*: [Here is a fun overview of many common Git functions.](https://www.codeschool.com/courses/try-git)
 
 3. [ ] Practice the Fundamentals
  * **Required**: [Practice these Computer Science basics.](https://www.codecademy.com/courses/programming-intro/0/1)
