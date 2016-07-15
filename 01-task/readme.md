@@ -63,8 +63,8 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
  * *Optional*: [If you have time, review some of the materials from Stanford's famous CS101 course. Specifically, look at concepts in weeks 1, 2, 4, and 6!](http://web.stanford.edu/class/cs101/)
 
 -  [ ] Experiment with Xcode
- * **Required**: [Work through Apple's online lesson on Xcode & Swift Fundamentals](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html)
- * *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
+ * **Required**: [Work through Apple's online lesson on Xcode & Swift Fundamentals.](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson1.html)
+ * *Optional*: [If you want some more help navigating Xcode, check out Apple's friendly Guide.](https://developer.apple.com/library/mac/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html)
  * *Optional*: [It never hurts to practice. Try this sample Xcode project from our favorite "We <3 Swift!"](https://www.weheartswift.com/getting-started-with-ios-programming/)
 
 - [ ] Mobile Networks 101
@@ -72,22 +72,22 @@ Ok, now onto the good stuff! Below is a list of tutorials and modules we'd like 
  * *Optional*: [This short tutorial is a great overview of the mobile ecosystem.](https://ga-edm-sandbox.s3.amazonaws.com/understanding-mobile-customers-and-their-devices/story.html)
 
 - [ ] Apple & iOS
-* **Optional**: [Take a quick peek at Apple's Human Interface Design Principles](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
-* **Optional**: [Apple's guide explains how iOS technology stacks together](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
+* **Optional**: [Take a quick peek at Apple's Human Interface Design Principles.](https://developer.apple.com/ios/human-interface-guidelines/#//apple_ref/doc/uid/TP40006556)
+* **Optional**: [Apple's guide explains how iOS technology stacks together.](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
 
 
 <a name="projects"></a>
 ## Projects
 
-- [ ] [Next, click here for instructions on how to complete our **required** pre-course project!](./project.md).
+- [ ] [Next, click here for instructions on how to complete our **required** pre-course project!](./pre-course-project.md).
 
 <a name="resources"></a>
 ## Optional Resources
 
 Last - but not least, check out some of these awesome additional resources! While none of these are really required, we highly recommend that you spend extra time preparing for the course. Remember, this is your learning experience, so make the most of it!
 
- * Listen to ["Developing iOS 9 apps with Swift" from Stanford on iTunes U](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961) 
-* Get comfortable with [Apple's technical documentation](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
- * Read through one of GA's [original iOS textbooks!](http://mobbook.generalassemb.ly/index.html)
+ * Listen to ["Developing iOS 9 apps with Swift" from Stanford on iTunes U.](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961) 
+* If you want to be an iOS developer, you'll need to [get comfortable with Apple's technical documentation.](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
+ * Have a look at [ GA's original iOS textbook! While slightly outdated, there's a lot of great material in here for new programmers.](http://mobbook.generalassemb.ly/index.html)
  * Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "ios apprentice" tutorials](https://www.raywenderlich.com/category/ios)
- * [If you like textbooks, some students have recommended this one](https://amzn.com/0134390733)
+ * [Some students have recommended the following textbook as a helpful resource](https://amzn.com/0134390733)
