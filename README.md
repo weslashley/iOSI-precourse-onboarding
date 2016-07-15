@@ -4,7 +4,7 @@ Welcome to General Assembly's iOS Development Immersive. We are building a globa
 
 ## In This Repository
 
-We provide a number of *required* and *optional* resources to better prepare you for the course. Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running.
+We provide a number of *required* and *optional* resources to better prepare you for the course. Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running!
 
 ## To Get Started
 
