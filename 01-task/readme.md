@@ -36,11 +36,11 @@ Note: *Students will need to sign up for a paid Apple Developer account in order
 
 Next, let's review the technology required and do some light installations. For more information, check out our policy below.
 
-* [ ] **Required**: Make sure you have a Mac laptop, with an updated OS.
+* [ ] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.11 "El Capitan").
 * [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
-* [ ] **Required**: [Download](https://git-scm.com/downloads) and [configure Git](https://help.github.com/articles/set-up-git/).
-* [ ] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our GA-Students group, where you can share resources and tips with fellow students in the `iosi-onboarding` channel!
-* [ ] *Optional*: Install a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
+* [ ] **Required**: [Download Git](https://git-scm.com/downloads) and [use the following walkthrough to help you configure git on your command line](https://help.github.com/articles/set-up-git/).
+* [ ] **Required**: [Download Slack](https://slack.com/downloads)! Slack is the primary messaging platform we'll use in this course. You'll receive an email invite to join our `GA-Students` group, where you'll be able to share resources and tips with fellow students in our `iosi-onboarding` channel.
+* [ ] *Optional*: We highly recommend installing a text editor like [Atom](https://atom.io) or [Sublime Text 3](http://www.sublimetext.com).
 * [ ] *Optional*: If you have a secondary iOS device (e.g. iPhone or iPad), bring it to class so you can use it to test your apps!
 
 #### Technology Policy
