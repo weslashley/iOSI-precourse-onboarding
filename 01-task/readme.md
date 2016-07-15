@@ -91,5 +91,5 @@ Last - but not least, check out some of these awesome additional resources! Whil
 * Listen to ["Developing iOS 9 apps with Swift" from Stanford on iTunes U.](https://itunes.apple.com/gb/course/developing-ios-9-apps-swift/id1104579961)
 * If you want to be an iOS developer, you'll need to [get comfortable with Apple's technical documentation.](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
 * Have a look at [ GA's original iOS textbook! While slightly outdated, there's a lot of great material in here for new programmers.](http://mobbook.generalassemb.ly/index.html)
-* Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "ios apprentice" tutorials](https://www.raywenderlich.com/category/ios)
-* [Some students have recommended the following textbook as a helpful resource](https://amzn.com/0134390733)
+* Try working through [Ray Wenderlich's beginner iOS series. Hint: sign up for free access to access the "ios apprentice" tutorials.](https://www.raywenderlich.com/category/ios)
+* [Some students have recommended the following textbook as a helpful resource](https://amzn.com/0134390733).
