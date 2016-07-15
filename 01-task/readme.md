@@ -42,7 +42,7 @@ Next, let's review the technology required and do some light installations. For 
 
 Due to the necessary tools used for iOS development, **Macs are required** for this course. We strongly suggest that students bring laptops with screens of *at least 13-inches*. Having an 11-inch (or smaller) screen has been shown to adversely affect student performance.
 
-Student laptops should be using OS X 10.8.5 or higher, ideally 10.11.4 (El Capitan). *This rules out some older MacBook models.* If you have any questions, feel free to connect with your instructor!
+Student laptops should be using OS X 10.10 or higher, ideally 10.11 (El Capitan). *This rules out some older MacBook models.* If you have any questions, feel free to connect with your instructor!
 
 
 <a name="tutorials"></a>
