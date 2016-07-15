@@ -1,6 +1,8 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to iOS Development Immersive!
 
-Welcome to the iOS Development Immersive at General Assembly! We're really excited that you're joining our General Assembly community. In order to ensure your success in the course, we’ve created a series of pre-course on-boarding tasks. Depending on your level of prior knowledge, these modules may take you between 40-60 hours to complete.
+[Welcome to the iOS Development Immersive at General Assembly!](https://github.com/generalassembly-studio/iosi-precourse-onboarding)
+
+We're really excited to have join our General Assembly community! In order to ensure your success in the course, we’ve created the following pre-course onboarding materials. Depending on your level of prior knowledge, these tutorials, modules, and projects may take you between 40-60 hours to complete.
 
 Please complete **all** items **before** your first day of class, so that both you and your computer will be prepared to hit the ground running. If you have questions in the meantime (or just want to say hi!), feel free to reach out to your instructional team!
 
