@@ -18,7 +18,5 @@ Meanwhile, if you have questions in the meantime (or just want to say hi!), feel
 
 ## Licensing
 
-<!--  remember to replace the placeholder content in curly braces in the GNU license -->
-
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
 2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
