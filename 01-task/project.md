@@ -3,25 +3,25 @@
 Your pre-course assignment has three parts. Please complete ***all three parts*** before the first day of class:
 
 ## Pt. 1: Get the repo!
-* Fork this pre-course repository (in github, you can do this using the button on the top right that says "fork")
-* Open the terminal! 
-* Using the command line, navigate into your `Documents` directory. 
-* Create a new folder called `Repositories` and then navigate into that. 
+* Fork this pre-course repository (in GitHub, you can do this using the button on the top right that says "fork")
+* Open the terminal!
+* Using the command line, navigate into your `Documents` directory.
+* Create a new folder called `Repositories` and then navigate into that.
 * Create a sub-folder called `GA-iOS` and navigate into that.
-* `Clone` this remote pre-course repository into your local "GA-iOS" folder by running the following command: 
-```git clone https://github.com/generalassembly-studio/iOSI-course-materials.git```
-* This will clone our pre-course repository onto your computer! Just make sure you've navigated to your local "GA-iOS" directory in the command line before running the `clone` command, or else you won't know where your local copy might end up!
+* `Clone` your remote fork of this pre-course repository into your local "GA-iOS" folder by running the following command:
+```git clone https://github.com/YOUR-USERNAME/iOSI-course-materials.git```
+* This will clone your fork of the pre-course repository onto your computer! Just make sure you've navigated to your local "GA-iOS" directory in the command line before running the `clone` command, or else you won't know where your local copy might end up!
 
 * Note: Technically, you can accomplish all this using the Github website & desktop app, but we recommend that you use the command line instead.
 
 ## Pt. 2: Complete all of the `TODOs` in the [included Playground file](./PreWork.playground/Contents.swift)
-* Open `PreWork.playground` in Xcode and use your new Swift knowledge to complete all of the `TODO` exercises. 
+* Open `PreWork.playground` in Xcode and use your new Swift knowledge to complete all of the `TODO` exercises.
 * When you're finished, uncomment the test code at the bottom to check if your answers are valid!
-* Make sure to **save** your file when you're finished. 
+* Make sure to **save** your file when you're finished.
 * Use the command line to rename your file to `prework.[yourname].playground`
 
 ## Pt. 3: Start your first app!
-* Create a new XCode project: a "Single View" iOS app. Do not use core data, unit tests, or UI tests. 
+* Create a new XCode project: a "Single View" iOS app. Do not use core data, unit tests, or UI tests.
 * Name the app file like so: `[yourname]-precourse-app`
 * Place the file in your local `02-onboarding-task` folder.
 * Navigate into Main.storyboard and add a picture of yourself plus a label that says your name.
@@ -33,7 +33,7 @@ Your pre-course assignment has three parts. Please complete ***all three parts**
 Use your newfound terminal & git knowledge to submit your work!
 
 1. Push your local edits up to your remote fork. This will copy your local files to your online github fork.
-2. [Use the following form to submit a link to your fork so we can review your materials!](http://goo.gl/forms/onJ8DOil8ftWYySJ2)
+2. [Use the following form to submit the URL link to your fork so we can review your materials!](http://goo.gl/forms/onJ8DOil8ftWYySJ2)
 
 * Note: *Make sure to re-title your saved playground and app files with your full name.*
 
