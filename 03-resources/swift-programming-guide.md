@@ -146,7 +146,7 @@ Optionals are a Swift-specific way to include some limited ambiguity by letting 
  - *How do you declare variables and constants that contain Optional types?*
  - *What's the difference between `?` and `!?`*
 
-#### Classes and Objects
+### Classes and Objects
 
 Classes and objects are the foundation of object-oriented programming, while "subclassing" is fundamental to data model design and using iOS frameworks.
 
@@ -160,7 +160,7 @@ Classes and objects are the foundation of object-oriented programming, while "su
 1. [Check out "Swift Programming 101: Inheritance & Polymorphism" from iphonelife.com](http://www.iphonelife.com/blog/31369/swift-programming-101-inheritance-polymorphism). Skip to the section titled "Polymorphism," which explains what polymorphism is and how to convert types with type casting. After reading this, you should be able to answer the following question:
  - *What is polymorphism?*
 
-#### Object-Oriented Programming
+### Object-Oriented Programming
 
 Knowing the best practices and patterns around objects is a necessary skill for professional developers.
 
@@ -174,7 +174,7 @@ Knowing the best practices and patterns around objects is a necessary skill for 
 **Bonus Resource**: [Read up on Model-View-Controllers from Apple's Developer Docs](https://developer.apple.com/library/mac/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html). Skip to the "Model Objects" section for this question:
  - *How do you create relationships between models?*
 
-#### IBOutlets/IBActions
+### IBOutlets/IBActions
 
 These connect the raw Swift we've been learning to the UI we created at the beginning of the course.
 
