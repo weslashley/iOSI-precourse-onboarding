@@ -67,6 +67,8 @@ Source control is a fundamental skill for **all** professional developers.
  - *How do you pull updates from a repository?*
  - *How do you push a repository and a commit to github?*
 
+**Bonus Resource!**: [Git & Github Video Tutorial Series on Youtube](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-).
+
 ### Data Types and Values
 
 Data types and values are the foundations for understanding and storing data.
