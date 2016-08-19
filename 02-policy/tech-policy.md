@@ -27,6 +27,6 @@ Due to the necessary tools used in the iOS environment, **Macs are required** fo
 
 #### Operating Systems Policy
 
-**Mac:** Student laptops should be using OS X 10.8.5 or higher, up to 10.11.4 (El Capitan). Students should update their OS before starting the course.
+**Mac:** In order to run the latest version of Xcode, student laptops should be using the most recent OS X 10.11.4 (currently, "El Capitan"). Students will need update their OS before starting the course.
 
-Note: *This rules out the use of some older MacBooks*
+Please note: *This rules out the use of some older MacBooks*
