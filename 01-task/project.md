@@ -9,7 +9,7 @@ Your pre-course assignment has three parts. Please complete ***all three parts**
 * Create a new folder called `Repositories` and then navigate into that.
 * Create a sub-folder called `GA-iOS` and navigate into that.
 * `Clone` your remote fork of this pre-course repository into your local "GA-iOS" folder by running the following command:
-```git clone https://github.com/YOUR-USERNAME/iOSI-course-materials.git```
+```git clone https://github.com/YOUR-USERNAME/iOSI-precourse-onboarding.git```
 * This will clone your fork of the pre-course repository onto your computer! Just make sure you've navigated to your local "GA-iOS" directory in the command line before running the `clone` command, or else you won't know where your local copy might end up!
 
 * Note: Technically, you can accomplish all this using the Github website & desktop app, but we recommend that you use the command line instead.
