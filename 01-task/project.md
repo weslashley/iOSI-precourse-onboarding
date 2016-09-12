@@ -26,7 +26,7 @@ Your pre-course assignment has three parts. Please complete ***all three parts**
 * To save it, navigate to your local `01-task` folder and save your file there.
 * Next, navigate into "Main.storyboard" and add a picture of yourself, plus a label that says your name.
 * Run the app and make sure that both show up! They do not have to be aligned particularly well, but they do need to show up.
-* BONUS: For some bonus funcionality, when you tap on your image in the app, make it navigate to a new screen that displays your image.
+* BONUS: For some bonus functionality, when you tap on your image in the app, make it navigate to a new screen that displays your image.
 
 ### Submission
 
