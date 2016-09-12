@@ -22,20 +22,20 @@ Your pre-course assignment has three parts. Please complete ***all three parts**
 
 ## Pt. 3: Start your first app!
 * Create a new XCode project: a "Single View" iOS app. Do not use core data, unit tests, or UI tests.
-* Name the app file like so: `[yourname]-precourse-app`
-* Place the file in your local `02-onboarding-task` folder.
-* Navigate into Main.storyboard and add a picture of yourself plus a label that says your name.
-* Run the app and make sure that both show up. They do not have to be aligned particularly well, but they do need to show up.
-* BONUS: When you tap on your image in the app, navigate to a new screen which displays only your image
+* Name your app file like so: `[yourname]-precourse-app`
+* To save it, navigate to your local `01-task` folder and save your file there.
+* Next, navigate into "Main.storyboard" and add a picture of yourself, plus a label that says your name.
+* Run the app and make sure that both show up! They do not have to be aligned particularly well, but they do need to show up.
+* BONUS: For some bonus funcionality, when you tap on your image in the app, make it navigate to a new screen that displays your image.
 
 ### Submission
 
 Use your newfound terminal & git knowledge to submit your work!
 
 1. Push your local edits up to your remote fork. This will copy your local files to your online github fork.
-2. [Use the following form to submit the URL link to your fork so we can review your materials!](http://goo.gl/forms/onJ8DOil8ftWYySJ2)
+2. [Use the following form to send us the link to your fork, so we can review your materials!](http://goo.gl/forms/onJ8DOil8ftWYySJ2)
 
-* Note: *Make sure to re-title your saved playground and app files with your full name.*
+* Note: *Make sure you've re-titled your saved playground and app files with your full name!*
 
 
 ### Feedback
