@@ -10,9 +10,9 @@ We provide a number of *required* and *optional* resources to better prepare you
 
 Document                            | Description
 ----------------------------------- | ------------------------------------------
-[1. Click here to complete our Onboarding Materials](./01-task/readme.md) | Required Pre-Course Tutorials & Project
-[2. Click here to review our Course Tech Policy](./02-policy/readme.md) | GA's Technology Policy for this course
-[3. Click here for additional Course Resources](./03-resources/readme.md) | Supplemental materials curated for new programmers!
+[1. Click here to complete our Onboarding Materials](./01-task/README.md) | Required Pre-Course Tutorials & Project
+[2. Click here to review our Course Tech Policy](./02-policy/README.md) | GA's Technology Policy for this course
+[3. Click here for additional Course Resources](./03-resources/README.md) | Supplemental materials curated for new programmers!
 
 Finally, if you have questions (or just want to say hi!), talk to your local production team and join our `#iosi-onboarding` channel on Slack to get help and share tips with your peers!
 
