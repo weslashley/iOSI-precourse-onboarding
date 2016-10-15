@@ -23,9 +23,9 @@ We recommended using this guide as a supplement to course activities. If a topic
 ---
 
 <a name="week1"></a>
-## Week 1
+# Week 1
 
-### Views
+## Views
 
 Here is an introduction to building code-less UI in Xcode's Interface Builder.
 
@@ -41,7 +41,7 @@ Here is an introduction to building code-less UI in Xcode's Interface Builder.
  - *How do you use those images in UIImagesViews?*
 
 
-### View Controllers
+## View Controllers
 
 This is the default, built-in navigation paradigm for iOS apps.
 
@@ -51,14 +51,14 @@ This is the default, built-in navigation paradigm for iOS apps.
  - *How to embed a View Controller in a UINavigationController?*
 
 
-### Command Line
+## Command Line
 
 The command line gives you access to a multitude of developer tools and serves as the primary interface for quickly navigating files and operating source control systems like Git.
 
 1. [Try "Learn the Command Line the Hard Way"!](http://cli.learncodethehardway.org/book/). This series of exercises will familiarize and get you comfortable with intermediate command line skills. After reading this, you should be able to answer the following question:
  - *How can we use the command line to quickly navigate, create, and edit files on our computer?*
 
-### Git/Github
+## Git/Github
 
 Source control is a fundamental skill for **all** professional developers.
 
@@ -69,14 +69,14 @@ Source control is a fundamental skill for **all** professional developers.
 
 **Bonus Resource!**: [Git & Github Video Tutorial Series on Youtube](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-).
 
-### Data Types and Values
+## Data Types and Values
 
 Data types and values are the foundations for understanding and storing data.
 
 1. [Discovr Swift Data Types with tutorialspoint.com](http://www.tutorialspoint.com/swift/swift_data_types.htm). This resource gives an overview of Swift's basic data types. After reading this guide, you should be able to answer the following question:
  - *What are swifts basic data types and their properties?*
 
-### Variables and Constants
+## Variables and Constants
 
 Understanding how to use variables and constants allows you to create safer and more elegant code.
 
@@ -85,7 +85,7 @@ Understanding how to use variables and constants allows you to create safer and 
  - *How do you assign new values to variables already declared and initialized?*
  - *How does using type annotation allow you to declare variables and constants with explicit typing as opposed to implicit?*
 
-### Control Flow
+## Control Flow
 
 The term "control flow" describes all of the logical decision-making (e.g. *conditionals*) and automation (i.e. types of *loops*) in one's code. Control flow patterns are used no matter what language you are programming in!
 
@@ -100,9 +100,9 @@ The term "control flow" describes all of the logical decision-making (e.g. *cond
 
 
 <a name="week2"></a>
-## Week 2
+# Week 2
 
-### Functions
+## Functions
 
 The `function` is a foundational component of modern programming. Functions allow us to reuse code and break our program into discrete, sequential steps.
 
@@ -120,7 +120,7 @@ The `function` is a foundational component of modern programming. Functions allo
 
 **Bonus resource!**: [Look through Apple's Developer docs on Functions](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html).
 
-### Data Structures
+## Data Structures
 
 #### Arrays
 
@@ -148,7 +148,7 @@ Optionals are a Swift-specific way to include some limited ambiguity by letting 
  - *How do you declare variables and constants that contain Optional types?*
  - *What's the difference between `?` and `!?`*
 
-### Classes and Objects
+## Classes and Objects
 
 Classes and objects are the foundation of object-oriented programming, while "subclassing" is fundamental to data model design and using iOS frameworks.
 
@@ -162,7 +162,7 @@ Classes and objects are the foundation of object-oriented programming, while "su
 1. [Check out "Swift Programming 101: Inheritance & Polymorphism" from iphonelife.com](http://www.iphonelife.com/blog/31369/swift-programming-101-inheritance-polymorphism). Skip to the section titled "Polymorphism," which explains what polymorphism is and how to convert types with type casting. After reading this, you should be able to answer the following question:
  - *What is polymorphism?*
 
-### Object-Oriented Programming
+## Object-Oriented Programming
 
 Knowing the best practices and patterns around objects is a necessary skill for professional developers.
 
@@ -176,7 +176,7 @@ Knowing the best practices and patterns around objects is a necessary skill for 
 **Bonus Resource**: [Read up on Model-View-Controllers from Apple's Developer Docs](https://developer.apple.com/library/mac/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html). Skip to the "Model Objects" section for this question:
  - *How do you create relationships between models?*
 
-### IBOutlets/IBActions
+## IBOutlets/IBActions
 
 These connect the raw Swift we've been learning to the UI we created at the beginning of the course.
 
@@ -189,9 +189,9 @@ These connect the raw Swift we've been learning to the UI we created at the begi
 ---
 
 <a name="week3"></a>
-## Week 3
+# Week 3
 
-### Table Views
+## Table Views
 
 Table views are one of the most common views deployed in iOS apps. It also demonstrates a necessary "design pattern" used in iOS implementation.
 
@@ -203,7 +203,7 @@ Table views are one of the most common views deployed in iOS apps. It also demon
  - *How to create `UITableViewCells` using "Reuse identifiers"?*
  - *How to create a standard `UITableViewCell` to show data?*
 
-### Passing Data
+## Passing Data
 
 The ability to pass data is necessary for the master/detail UI pattern. *
 
@@ -212,7 +212,7 @@ The ability to pass data is necessary for the master/detail UI pattern. *
  - *How can you create objects from user inputs?*
  - *How do you add multiple segues to the same target view controller and populate it depending on the segue identifier?*
 
-### Debugging fundamentals in Xcode
+## Debugging fundamentals in Xcode
 
 Finally, you should have some familiarity with tools that enable a developer to inspect running code in order to find and solve problems!
 
