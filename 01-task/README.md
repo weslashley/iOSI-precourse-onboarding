@@ -36,7 +36,7 @@ Note: *Students will need to sign up for a paid Apple Developer account in order
 
 Next, let's review the technology required and do some light installations. For more information, check out our policy below.
 
-* [ ] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.11 "El Capitan").
+* [ ] **Required**: Make sure you have a Mac laptop, with an updated OS (currently 10.12 "Sierra").
 * [ ] **Required**: Install the latest version of [Xcode](https://developer.apple.com/xcode/).
 * [ ] **Required**: [Configure Xcode for your Command Line](http://railsapps.github.io/xcode-command-line-tools.html).
 * [ ] **Required**: [Download Git](https://git-scm.com/downloads).
@@ -50,7 +50,7 @@ Next, let's review the technology required and do some light installations. For 
 
 Due to the necessary tools used for iOS development, **Macs are required** for this course. We strongly suggest that students bring laptops with screens of *at least 13-inches*. Having an 11-inch (or smaller) screen has been shown to adversely affect student performance.
 
-Student laptops should be using OS X 10.10 or higher, ideally 10.11 (El Capitan). *This rules out some older MacBook models.* If you have any questions, feel free to connect with your instructor!
+Student laptops should be using OS X 10.10 or higher, ideally 10.12 (Sierra). *This rules out some older MacBook models.* If you have any questions, feel free to connect with your instructor!
 
 
 <a name="tutorials"></a>
